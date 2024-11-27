@@ -1,5 +1,4 @@
-
-# Walachat
+# walachat
 
 A local-network python chat using only the terminal and sockets.<br>
 You can create chat rooms and join as different users/computers, and chat with each other.<br>
