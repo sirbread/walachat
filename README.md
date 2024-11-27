@@ -5,7 +5,7 @@ A local-network python chat using only the terminal and sockets.<br>
 You can create chat rooms and join as different users/computers, and chat with each other.<br>
 Just don't use it it school where you can talk undetected ;)<br>
 
-![Menu](/screenshots/walachat1.png)<br>
+![Menu](/screenshots/walachat1.png)
 ![Room](/screenshots/walachat2.png)
 
 ## Run it
