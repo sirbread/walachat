@@ -1,11 +1,11 @@
 
 # Walachat
 
-A local-network python chat using only the terminal and sockets.
-You can create chat rooms and join as different users/computers, and chat with each other.
-Just don't use it it school where you can talk undetected ;)
+A local-network python chat using only the terminal and sockets.<br>
+You can create chat rooms and join as different users/computers, and chat with each other.<br>
+Just don't use it it school where you can talk undetected ;)<br>
 
-![Menu](/screenshots/walachat1.png)
+![Menu](/screenshots/walachat1.png)<br>
 ![Room](/screenshots/walachat2.png)
 
 ## Run it
@@ -15,9 +15,9 @@ Just don't use it it school where you can talk undetected ;)
 3. No other requirements are needed! It's in a terminal after all.
 
 ## Requirements
-Python version: **Python 3.11 (non-legacy) or higher**\
-No additional packages/requirements needed!
-Note: Though the program interacts with the Windows API and thus will not work on any other OS, the ANSI code parts are still very much useable and applicable for use on other terminals.
+Python version: **Python 3.11 (non-legacy) or higher** <br>
+No additional packages/requirements needed!<br>
+Note: Though the program interacts with the Windows API and thus will not work on any other OS, the ANSI code parts are still very much useable and applicable for use on other terminals. <br>
 
 ## **Features**
 - Custom Terminal UI: Dynamic fonts, colors, and responsive UI elements, all in the terminal.
