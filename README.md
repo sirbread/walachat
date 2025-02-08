@@ -8,7 +8,9 @@ Just don't use it it school where you can talk undetected ;)<br>
 ![Room](/screenshots/walachat1.png)
 
 ## Run it
-
+**windows only**. yes, i have a skill issue :( <br>
+also, it's reccomennded to run windows 10 or below, since the new powershell update in 11 (with the tabs and stuff) cook the ui alignment. <br>
+<br>
 1. Clone thy repo.
 2. Run `walachat.py`.
 3. No other requirements are needed! It's in a terminal after all.
